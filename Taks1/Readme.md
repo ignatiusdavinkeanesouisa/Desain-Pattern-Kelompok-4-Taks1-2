@@ -1,15 +1,15 @@
 # DP-Week1 Task 1 - Balatro-Like Core Loop
 
-## Reflection
-
 ## Nama Kelompok
-Gea Ismawianda Aulia Firdausy - 5225600117
-Rizky Eka Aji Santoso - 5225600119
-Shelen ahmad kahfi - 5225600104
-Kalvin Luna Sinuraya - 5225600120
-I Putu Satwika Werdi Widagda Karang - 5225600112
-Ignatius Davin Keane Souisa - 5225600092
-Moch Salman Al Fariz - 5225600107
+Gea Ismawianda Aulia Firdausy - 5225600117  
+Rizky Eka Aji Santoso - 5225600119  
+Shelen ahmad kahfi - 5225600104  
+Kalvin Luna Sinuraya - 5225600120  
+I Putu Satwika Werdi Widagda Karang - 5225600112  
+Ignatius Davin Keane Souisa - 5225600092  
+Moch Salman Al Fariz - 5225600107  
+
+## Reflection
 
 **1. What is the invariant structure in your program?**
 Struktur invariant dalam program ini adalah alur eksekusi fase permainan di dalam kelas `RunSession`[cite: 1, 2]. Urutan 6 fase tersebut mencakup pembuatan input, perhitungan skor dasar, perhitungan reward, pembaruan jumlah uang, fase toko, dan perpindahan ronde[cite: 1, 2]. Urutan ini bersifat permanen dan tidak boleh diubah atau diselingi oleh logika luar[cite: 2, 5].
