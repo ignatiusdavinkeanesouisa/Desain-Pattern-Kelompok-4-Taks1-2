@@ -1,5 +1,16 @@
 # DP-Week2 Task 2 - Core Loop Architecture
 
+## Nama Kelompok
+Gea Ismawianda Aulia Firdausy - 5225600117  
+Rizky Eka Aji Santoso - 5225600119  
+Shelen ahmad kahfi - 5225600104  
+Kalvin Luna Sinuraya - 5225600120  
+I Putu Satwika Werdi Widagda Karang - 5225600112  
+Ignatius Davin Keane Souisa - 5225600092  
+Moch Salman Al Fariz - 5225600107  
+
+# DP-Week2 Task 2 - Core Loop Architecture
+
 ## Step 1: Core Loop Description
 Game concept: Wave Survival Action / Combat Dungeon.
 1. Player selects and performs an action (Attack/Skill).
